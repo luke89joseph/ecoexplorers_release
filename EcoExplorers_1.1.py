@@ -3292,7 +3292,7 @@ def menuBadgeAnimation():
         ecosystemPart3.width += app.badgeAnimation4
         ecosystemPart3.height += app.badgeAnimation4
 
-### Credits and Sources, BETA 0.5
+### Credits and Sources, v1.1
 
 # Coded on academy.cs.cmu.edu (Carnegie Mellon University Computer Science Academy) using CMU Graphics
 # https://academy.cs.cmu.edu/about
